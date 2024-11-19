@@ -1,6 +1,6 @@
 # Мини-гайд по основным коммандам Git  
 
-![Конец](https://i.scdn.co/image/ab67616d0000b273f5566b1c4a3892ec6844af7c)
+![Конец](https://www.simplilearn.com/ice9/free_resources_article_thumb/git_vs_github2.jpg)
 
 ### Создаем папку с репозиторием Git
 
