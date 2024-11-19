@@ -1,5 +1,5 @@
 # Мини-гайд по основным коммандам Git  
-	![GitHub-tutorial](https://hermes.dio.me/articles/cover/e2d8683b-5828-4e74-bf69-1a98690d761e.png)
+	![GitHub-tutorial](https://www.simplilearn.com/ice9/free_resources_article_thumb/git_vs_github2.jpg)
 
 ### Создаем папку с репозиторием Git
 
