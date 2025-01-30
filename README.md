@@ -192,6 +192,15 @@ git clone git@github.com:Giant-VP/git-basics.git
 Если нужно передать последний коммит, то вместо его хеша можно просто написать слово `HEAD` — Git поймёт, что 
 это последний коммит.
 
+```mermaid
+graph LR
+  untracked -- "git add" --> staged;
+  staged    -- "git commit"     --> tracked;
+  tracked/modified -- "Изменения" --> modified;
+  modified -- "git add" --> staged;
+  staged -- "git commit" --> tracked;
+```
+
 ![Конец](https://i.scdn.co/image/ab67616d0000b273f5566b1c4a3892ec6844af7c)
 
 
