@@ -177,6 +177,7 @@ git clone git@github.com:Giant-VP/git-basics.git
 2. > **Author** — имя автора и его электронная почта.
 3. > **Date** — дата и время создания коммита.
 4. > Сообщение к коммиту.   
+
 Сокращённый лог вызывают командой `git log` с флагом `--oneline`
 ![GIT_LOG](https://pictures.s3.yandex.net/resources/M2_T5_03_1705508703.png)
 
