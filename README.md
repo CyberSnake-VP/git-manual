@@ -171,13 +171,13 @@ git clone git@github.com:Giant-VP/git-basics.git
 
 ### Лог
 ![GIT_LOG](https://pictures.s3.yandex.net/resources/M2_T5_02_1705508495.png)
-**`git log`**   
+### **`git log`**	   
 Вот из каких элементов состоит описание:
 1. > Строка из цифр и латинских букв после слова commit — это уже знакомый вам хеш коммита.
 2. > **Author** — имя автора и его электронная почта.
 3. > **Date** — дата и время создания коммита.
 4. > Сообщение к коммиту.
-Сокращённый лог вызывают командой `git log` с флагом `--oneline`
+   Сокращённый лог вызывают командой `git log` с флагом `--oneline`
 ![GIT_LOG](https://pictures.s3.yandex.net/resources/M2_T5_03_1705508703.png)
 
 ![Конец](https://i.scdn.co/image/ab67616d0000b273f5566b1c4a3892ec6844af7c)
