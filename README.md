@@ -200,6 +200,7 @@ graph LR
   staged    -- "git commit"     --> tracked;
   tracked -- "Изменения" --> modified;
   modified -- "git add" --> staged;
+  staged -- "Изменения" --> modified;
 ```
 
 ![Конец](https://i.scdn.co/image/ab67616d0000b273f5566b1c4a3892ec6844af7c)
